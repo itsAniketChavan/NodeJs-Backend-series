@@ -1,16 +1,16 @@
 {
-  "name": "01-sample-server",
+  "name": "04-json-conversions",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learning about JSON Conversions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"nodemon node index.js"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.4.1",
     "express": "^4.18.2"
   }
 }
